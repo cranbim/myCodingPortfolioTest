@@ -6,7 +6,7 @@ date: 2024-01-03
 NOt sure I have anything to say yet though
 
 [![A tributeto Vera Molnar](/myCodingPortfolioTest/images/veraMolnar.png "An image of my Vera Molnar homage")](https://cranbim.github.io/myCodingPortfolioTest/creativeCode/gen24-05-VeraMolnar/index.html)
-<img src="/myCodingPortfolioTest/images/veraMolnar.png" width="200">
+<img src="/images/veraMolnar.png" width="200">
 
 [Check out this example though](https://cranbim.github.io/myCodingPortfolioTest/creativeCode/gen24-05-VeraMolnar/index.html)
 
