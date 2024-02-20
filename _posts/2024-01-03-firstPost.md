@@ -5,8 +5,8 @@ date: 2024-01-03
 # My first blog post
 Not sure I have anything to say yet though
 
-[![A tributeto Vera Molnar](/images/veraMolnar.png "An image of my Vera Molnar homage")](https://cranbim.github.io/myCodingPortfolioTest/creativeCode/gen24-05-VeraMolnar/index.html)
-<img src="/myCodingPortfolioTest/images/veraMolnar.png" width="200">
+[![A tributeto Vera Molnar](/myCodingPortfolioTest/images/veraMolnar.png "An image of my Vera Molnar homage")](https://cranbim.github.io/myCodingPortfolioTest/creativeCode/gen24-05-VeraMolnar/index.html)
+<img src="https://cranbim.github.io/myCodingPortfolioTest/images/veraMolnar.png" width="200">
 
 [Check out this example though](https://cranbim.github.io/myCodingPortfolioTest/creativeCode/gen24-05-VeraMolnar/index.html)
 
